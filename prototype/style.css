@@ -1,0 +1,20 @@
+body {
+    background-color: azure;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+.container {
+    border: 2px solid black;
+    width: 50vh;
+    margin-top: 10px;
+    background-color: white;
+    border-radius: 10px;
+    padding: 6px;
+    box-shadow: 0 16px 40px rgba(0, 0, 0, 0.15);
+
+}
+.Ccontainer {
+    display: flex;
+    margin-top: -30px;
+}
