@@ -1,6 +1,6 @@
 body {
   display: flex;
-  justify-content: center; /* horizontal */
+  justify-content: center; 
   height: 100vh;
 }
 .container {
@@ -52,7 +52,7 @@ body {
 .container label {
     font-size: 24px;
 }
-#create {
+#Add {
     width: 100px;
     height: 39.5px;
     font-size: 18px;
