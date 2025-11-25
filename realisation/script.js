@@ -120,3 +120,5 @@ function load(){
     update();
 }
 load();
+
+console.log("hello world");
